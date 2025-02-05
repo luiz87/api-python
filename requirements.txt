@@ -1,0 +1,6 @@
+flask
+gunicorn
+
+
+  git config --global user.email "luizfelipe.freire@gmail.com"
+  git config --global user.name "luiz felipe"
